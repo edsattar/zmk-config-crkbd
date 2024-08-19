@@ -53,8 +53,8 @@
 
             label = "Raise";
             bindings = <
-&trans  &kp EXCL       &kp AT        &kp HASH   &trans     &trans       &kp LPAR        &kp RIGHT_PARENTHESIS  &kp MINUS       &kp EQUAL         &trans    &trans
-&trans  &kp DOLLAR     &kp PERCENT   &kp CARET  &kp GRAVE  &kp TILDE    &kp LBKT        &kp RIGHT_BRACKET      &kp UNDERSCORE  &kp PLUS          &kp APOS  &trans
+&trans  &kp EXCL       &kp AT        &kp HASH   &trans     &trans       &kp LPAR        &kp RIGHT_PARENTHESIS  &kp UNDERSCORE  &kp PLUS          &trans    &trans
+&trans  &kp DOLLAR     &kp PERCENT   &kp CARET  &kp GRAVE  &kp TILDE    &kp LBKT        &kp RIGHT_BRACKET      &kp MINUS       &kp EQUAL         &kp APOS  &trans
 &trans  &kp AMPERSAND  &kp ASTERISK  &trans     &trans     &trans       &kp LEFT_BRACE  &kp RIGHT_BRACE        &kp LESS_THAN   &kp GREATER_THAN  &kp BSLH  &trans
                                      &trans     &trans     &trans       &trans          &trans                 &trans
             >;
