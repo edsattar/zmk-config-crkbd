@@ -21,9 +21,9 @@
 
             label = "Base";
             bindings = <
-&kp TAB        &kp Q  &kp W  &kp E         &kp R      &kp T              &kp Y             &kp U       &kp I         &kp O    &kp P      &kp BSLH
-&mt LCTRL ESC  &kp A  &kp S  &kp D         &kp F      &kp G              &kp H             &kp J       &kp K         &kp L    &kp SEMI   &kp APOS
-&kp LSHFT      &kp Z  &kp X  &kp C         &kp V      &kp B              &kp N             &kp M       &kp COMMA     &kp DOT  &kp SLASH  &kp RSHIFT
+&kp TAB        &kp Q  &kp W  &kp E         &kp R      &kp T              &kp Y             &kp U       &kp I         &kp O    &kp P      &kp BACKSPACE
+&mt LCTRL ESC  &kp A  &kp S  &kp D         &kp F      &kp G              &kp H             &kp J       &kp K         &kp L    &kp SEMI   &kp SQT
+&kp LSHFT      &kp Z  &kp X  &kp C         &kp V      &kp B              &kp N             &kp M       &kp COMMA     &kp DOT  &kp SLASH  &kp ENTER
                              &mt LALT ESC  &lt 1 TAB  &mt LCTRL SPACE    &mt RSHIFT ENTER  &lt 2 BSPC  &mt LWIN ESC
             >;
         };
@@ -40,7 +40,7 @@
 &trans  &bt BT_NXT  &kp N1  &kp N2  &kp N3  &kp F16     &trans    &kp C_BRIGHTNESS_DEC  &kp C_BRIGHTNESS_INC  &trans     &trans  &trans
 &trans  &bt BT_PRV  &kp N4  &kp N5  &kp N6  &kp C_PP    &kp LEFT  &kp DOWN              &kp UP                &kp RIGHT  &trans  &trans
 &trans  &bt BT_CLR  &kp N7  &kp N8  &kp N9  &kp F17     &trans    &kp C_VOL_DN          &kp C_VOL_UP          &trans     &trans  &trans
-                            &kp N0  &trans  &trans      &trans    &mo 3                 &trans
+                            &trans  &trans  &trans      &trans    &mo 3                 &trans
             >;
         };
 
