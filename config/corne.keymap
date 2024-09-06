@@ -68,7 +68,7 @@
                          &trans  &trans  &trans     &trans  &trans  &trans
             >;
 
-            label = "function";
+            label = "Function";
         };
 
         gaming_layer {
@@ -79,7 +79,7 @@
                          &kp LALT  &kp LCTRL  &kp SPACE    &kp RET  &kp BACKSPACE  &to 0
             >;
 
-            label = "gaming";
+            label = "Gaming";
         };
 
         layer_5 {
